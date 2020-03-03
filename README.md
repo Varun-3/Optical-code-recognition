@@ -1,0 +1,2 @@
+# Optical-code-recognition
+Need to search any data from a PDF.  Datapresent in the PDF is a combination of English,  Teluguand Urdu languages. The font used for Telugu is Shreelipi and for Urdu is Noori Nastaliq.Format of Data present in PDF will be in .pdf format and some data will be in image format. We need to search the data present in English, Telugu and Urdu languages which is present in Unicode as well as in image format.
